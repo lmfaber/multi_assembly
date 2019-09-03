@@ -1,0 +1,7 @@
+name: soapdenovotrans
+channels:
+ - bioconda
+dependencies:
+ - soapdenovo-trans=1.04
+ - cd-hit=4.8.1
+
